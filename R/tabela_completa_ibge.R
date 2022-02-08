@@ -1,3 +1,9 @@
+#usethis::create_project(path = "c://Users/Pichau/Desktop/Projetos_R/ibge_script")
+#usethis::use_git()
+#usethis::use_github()
+
+
+
 library(magrittr, include.only = '%>%')
 
 #WEBSCRAPING----
